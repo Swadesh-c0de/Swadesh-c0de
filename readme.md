@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate engineering student who loves coding, physics, nature photography and learning new technologies. I have a strong interest in Quantum Computing, BlockChain and AI & ML. Here are a few things about me:
+I'm a passionate engineering student who loves coding, physics, nature photography and learning new technologies. I have a strong interest in Quantum Computing, BlockChain, AI & ML and IOT. Here are a few things about me:
 
 - 🔭 I’m looking to collaborate on open-source projects and interesting development challenges.
 - 💬 Ask me about anything related to tech.
