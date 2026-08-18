@@ -63,9 +63,9 @@ Beyond full-stack engineering, I'm driven by a natural curiosity for how things 
     <td align="center" valign="middle">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swadesh-c0de&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Swadesh's GitHub Stats" />
     </td>
-    <td align="center" valign="middle">
+    <!-- <td align="center" valign="middle">
       <img src="https://streak-stats.demolab.com/?user=Swadesh-c0de&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" colspan="2" valign="middle">
