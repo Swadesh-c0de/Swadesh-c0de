@@ -1,26 +1,105 @@
-# 💫 About Me:
-I'm a Computer Science Engineering student and a tech enthusiast with a deep fascination for how things work—from the microscopic scale of Quantum Computing to the vast potential of AI & IoT. When I'm not debugging or exploring Arch Linux, you'll likely find me capturing nature through my lens or strategizing over a chessboard.
+<div align="center">
 
-🔭 Current Focus: Open-source collaboration & development challenges.
-🧪 Interests: AI/ML, Blockchain, Physics, and Robotics.
-⚡ Fun Fact: I'm a dual-booter who loves the minimalism of terminal-based workflows.
+# Hi there, I'm Swadesh Patel 👋
+### Full-Stack MERN Developer • Systems Enthusiast • Open Source Contributor
 
+<br/>
 
-## 🌐 Socials:
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axy.sh_)  -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swadeshpatel) 
-
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Swadesh-c0de&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Swadesh-c0de&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swadesh-c0de&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Swadesh-c0de&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Swadesh-c0de&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I'm a **Full-Stack MERN Developer** and **Computer Science Engineering student** who loves crafting scalable web applications, responsive user interfaces, and robust backend APIs—while also exploring low-level mechanics in **C++** and **Go**.
+
+Beyond full-stack engineering, I'm driven by a natural curiosity for how things work. In my free time, you'll often find me reading about quantum physics, tinkering with DIY IoT hardware & microcontrollers, capturing perspectives through photography, or exploring my **Arch Linux** environment.
+
+<br/>
+
+- 🎓 **Academic Journey:** Final Year Computer Science & Engineering student.
+- 💻 **Primary Stack:** Full-Stack Web Development (**MERN Stack** — MongoDB, Express.js, React, Node.js) & Next.js.
+- ⚙️ **Systems & Low-Level:** Exploring memory efficiency, Unix internals, and systems programming in **C++** & **Go**.
+- 🌐 **Web3 & Protocols:** Experimenting with decentralized ecosystems and distributed architectures.
+- 🐧 **Environment:** Keyboard-driven, minimalist terminal workflows on **Arch Linux**.
+- 🧪 **Curiosity & Free Time:** Reading about quantum physics, DIY IoT hardware hacking, and capturing nature through my camera 📸.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+#### 💻 Languages & Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,bash,cmake" alt="Languages" />
+</a>
+
+#### 🌐 Frontend & UI
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,vite,redux,sass" alt="Frontend" />
+</a>
+
+#### ⚡ Backend, Databases & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,mongodb,mysql,postgres,redis,prisma,graphql,firebase,docker,vercel,netlify" alt="Backend & Cloud" />
+</a>
+
+#### 🐧 Tools & Environment
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,linux,neovim,vscode,git,postman,raspberrypi,docker,obsidian,figma" alt="Tools & OS" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swadesh-c0de&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Swadesh's GitHub Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=Swadesh-c0de&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="middle">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swadesh-c0de&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <i>Always open to discussing new opportunities, open-source projects, or low-level systems architecture.</i>
+</p>
+
+<p align="center">
+  <a href="https://swadeshpatel.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/swadeshpatel" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Swadesh-c0de" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swadesh-c0de&color=1793D1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+</div>
